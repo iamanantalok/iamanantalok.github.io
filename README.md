@@ -35,5 +35,5 @@ Welcome to my portfolio website repository! This project showcases my skills, ex
 If you have any questions or suggestions, feel free to reach out!  
 
 📧 Email: iamanantalok@gmail.com  
-🌐 Portfolio:  
+🌐 Portfolio: https://iamanantalok.github.io/
 
